@@ -1,6 +1,8 @@
 Towards the smart lab: Environment monitoring for mass spectrometry quality control using commodity hardware
 ============================================================================================================
 
+![environment monitoring](smart_lab.png)
+
 This code analyzes the correspondence between ambient laboratory temperature and mass spectrometer instrument metrics.
 
 For more information:
@@ -20,7 +22,7 @@ The code is available as open source under the Apache 2.0 license.
 Dependencies
 ------------
 
-Python 3.6 or higher is required to run the code. The required external modules are available in the file `requirements.txt` and can be installed using pip using `pip install -r requirements.txt`.
+Python 3.6 or higher is required to run the code. The required external modules are available in the file `requirements.txt` and can be installed through pip using `pip install -r requirements.txt`.
 
 ---
 
